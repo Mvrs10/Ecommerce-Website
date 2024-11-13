@@ -1,0 +1,10 @@
+{
+  "name": "mern_skeleton",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Blessing",
+  "license": "MIT",
+  "devDependencies": {
+    "concurrently": "^8.2.2",
+  }
+}
