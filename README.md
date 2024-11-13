@@ -20,21 +20,25 @@ An ecommerce webiste featuring registration, create shops, add products (Fullsta
 
 <p align="center">
 Homepage: <br/>
-<img src="https://i.imgur.com/htGIndu.png" height="80%" width="80%" alt="Mathnasium Center"/>
+<img src="https://i.imgur.com/B4Dfemf.png" height="80%" width="80%" alt="Mathnasium Center"/>
 <br />
 <br />
-Online Contact Form:  <br/>
-<img src="https://i.imgur.com/hHd30rm.png" height="80%" width="80%" alt="Mathnasium Center"/>
+Users: <br/>
+<img src="https://i.imgur.com/kgQ23zK.png" height="80%" width="80%" alt="Mathnasium Center"/>
 <br />
 <br />
-About: <br/>
-<img src="https://i.imgur.com/e1av1HC.png" height="80%" width="80%" alt="Mathnasium Center"/>
+Sign-up:  <br/>
+<img src="https://i.imgur.com/9g5tAaa.png" height="80%" width="80%" alt="Mathnasium Center"/>
 <br />
 <br />
-Service:  <br/>
-<img src="https://i.imgur.com/o6IwhRI.png" height="80%" width="80%" alt="Mathnasium Center"/>
+Sign-in: <br/>
+<img src="https://i.imgur.com/h6GTkyY.png" height="80%" width="80%" alt="Mathnasium Center"/>
 <br />
 <br />
-Projects:  <br/>
-<img src="https://i.imgur.com/7VONfDG.png" height="80%" width="80%" alt="Mathnasium Center"/>
+My profile:  <br/>
+<img src="https://i.imgur.com/OmpRUJi.png" height="80%" width="80%" alt="Mathnasium Center"/>
+<br />
+<br />
+Edit profile:  <br/>
+<img src="https://i.imgur.com/7lFemFj.png" height="80%" width="80%" alt="Mathnasium Center"/>
 </p>
