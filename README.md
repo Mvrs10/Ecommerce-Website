@@ -1,6 +1,6 @@
 <h1>E-Commerce Website</h1>
 
- ### 🧮 [Website](https://meatsteamgames.onrender.com/)
+ ### 🧮 [Website](https://meats-game-store-be.onrender.com/)
 
 <h2>Description</h2>
 An ecommerce webiste featuring registration, create shops, add products (Fullstack).
